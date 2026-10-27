@@ -2,6 +2,9 @@
 
 Standalone React/TypeScript/Vite integration of ThreeUI's `MengToSketchbookLandingPage`, using the exact configured props and registered source. Other workspace applications are not referenced or changed.
 
+**Live: https://meng-to-sketchbook-three.vercel.app**
+(private source: https://github.com/Dheeraj-Baghel/meng-to-sketchbook; pushes to `main` deploy automatically)
+
 **Local preview: http://127.0.0.1:4335/**
 
 ## Run
