@@ -1,0 +1,155 @@
+{
+  "results": [
+    {
+      "name": "configured component loads canonical local frame",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "served HTML is required byte-exact revision",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "all 17 served binary assets match registered hashes",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "configured typography applied and local fonts loaded",
+      "ok": true,
+      "detail": "{\"name\":\"\\\"Instrument Serif\\\", Georgia, \\\"Times New Roman\\\", serif\",\"body\":\"Newsreader, Georgia, \\\"Times New Roman\\\", serif\",\"weight\":\"400\",\"size\":\"30px\",\"tracking\":\"0.3px\",\"ink\":\"#2b2721\",\"fonts\":true,\"override\":true}"
+    },
+    {
+      "name": "authored intro finishes on Marina Bay Skyline",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "nine editorial plates initialized",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "every index item selects matching caption and complete image",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "keyboard arrows turn both directions and wrap at both ends",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "drag creates curved leaf with 18 strips and two faces each",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "long page drag commits next plate",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "short held drag cancels without changing plate",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "zoom in changes readout and book scale",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "zoom caps at 150% and disables plus",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "zoom floors at 90% and disables minus",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "double-click handler restores 100% zoom",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "magnifier toggle hides glass and updates pressed state",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "glass drags independently with magnified masked book",
+      "ok": true,
+      "detail": "{\"transform\":\"translate3d(416px, 211px, 0px)\",\"opacity\":1,\"mask\":\"radial-gradient(93.7px at 522px 317px, rgb(0, 0, 0) calc(100% - 1px), transparent 100%)\",\"scale\":\"translate(-678.6px, -412.1px) scale(2.3)\",\"z\":1,\"lx\":522,\"ly\":316.9999926757812}"
+    },
+    {
+      "name": "turn shoves glass away from turning page",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "about navigation scrolls inner document",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "journal navigation reveals authored index",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "phone skips intro, hides loupe and has no horizontal overflow",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "phone touch page turn and index selection work",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "reduced-motion skips riffle and directly commits turns",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "no external runtime downloads",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "no browser errors or failed requests",
+      "ok": true,
+      "detail": ""
+    }
+  ],
+  "knownIssues": [
+    "Native side-arrow clicks are swallowed by sbStage pointer capture; keyboard and book taps/drags work."
+  ],
+  "errors": [],
+  "requests": [
+    "http://127.0.0.1:4336/",
+    "http://127.0.0.1:4336/assets/index-vGOgHgD5.js",
+    "http://127.0.0.1:4336/assets/index-ajbQvFQk.css",
+    "http://127.0.0.1:4336/landing-pages/meng-to-sketchbook.html",
+    "http://127.0.0.1:4336/landing-pages/meng-to-sketchbook/botany-left.png",
+    "http://127.0.0.1:4336/landing-pages/meng-to-sketchbook/botany-right.png",
+    "http://127.0.0.1:4336/landing-pages/meng-to-sketchbook/bloom.png",
+    "http://127.0.0.1:4336/landing-pages/meng-to-sketchbook/bg-wash.jpg",
+    "http://127.0.0.1:4336/landing-pages/meng-to-sketchbook/divider.png",
+    "http://127.0.0.1:4336/landing-pages/meng-to-sketchbook/newsreader.woff2",
+    "http://127.0.0.1:4336/landing-pages/meng-to-sketchbook/instrument-serif.woff2",
+    "http://127.0.0.1:4336/landing-pages/meng-to-sketchbook/marina-bay-sands.png",
+    "http://127.0.0.1:4336/landing-pages/meng-to-sketchbook/gardens-by-the-bay.png",
+    "http://127.0.0.1:4336/landing-pages/meng-to-sketchbook/merlion.png",
+    "http://127.0.0.1:4336/landing-pages/meng-to-sketchbook/buddha-tooth.png",
+    "http://127.0.0.1:4336/landing-pages/meng-to-sketchbook/joo-chiat.png",
+    "http://127.0.0.1:4336/landing-pages/meng-to-sketchbook/lau-pa-sat.png",
+    "http://127.0.0.1:4336/landing-pages/meng-to-sketchbook/marina-bay-skyline.png",
+    "http://127.0.0.1:4336/landing-pages/meng-to-sketchbook/singapore-river.png",
+    "http://127.0.0.1:4336/landing-pages/meng-to-sketchbook/botanic-gardens.png"
+  ]
+}

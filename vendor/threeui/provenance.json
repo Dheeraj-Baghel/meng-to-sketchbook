@@ -1,0 +1,12 @@
+{
+  "component": "MengToSketchbookLandingPage",
+  "bundleUrl": "https://threeui.com/source-code/meng-to-sketchbook-landing-page.json",
+  "canonicalUrl": "https://threeui.com/landing-pages/meng-to-sketchbook.html",
+  "requiredRevision": "e0330548b1ac905cf1b81698163ffa29f8a3a8c39b8d39f9b71ba5b9255b6dd1",
+  "liveHtmlRevisionAtRetrieval": "518737cbcbd8250813613bca7c0bd06959b91a84d905de2b0f5ec8c32a5f9fcc",
+  "package": "@designcodeio/threeui@1.2.0",
+  "tarballUrl": "https://registry.npmjs.org/@designcodeio/threeui/-/threeui-1.2.0.tgz",
+  "tarballSha256": "2867b8cca00822d3ba393248120c9d4f326544864fd254b4940be69326245424",
+  "retrieved": "2026-10-27",
+  "integration": "Registered component export extracted verbatim with required imports; full registered catalog retained. Frame, typography, recipes, CSS, canonical HTML and assets are unchanged. Vite aliases preserve configured package imports."
+}
